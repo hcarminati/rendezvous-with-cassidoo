@@ -1,0 +1,7 @@
+{
+  "name": "rendezvous-with-cassidoo",
+  "version": "1.0.0",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
