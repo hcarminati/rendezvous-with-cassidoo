@@ -1,3 +1,4 @@
+/* Solution 1 */
 function trimArray(arr, n, m) {
     if(n < 0 || m < 0) {
         throw new Error("n and m must be positive.")
